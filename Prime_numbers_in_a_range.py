@@ -1,6 +1,6 @@
-lower=int(input("Enter The Lower Limt : "))
-upper=int(input("Enter The Upper Limit : "))
-print("Prime numbers between",lower,"and",upper,"are:")
+lower=int(input("Enter The Lower Limt : ")) # read lower limit
+upper=int(input("Enter The Upper Limit : ")) # read upper limit
+print("Prime numbers between",lower,"and",upper,"are:") #print numbers b/w lower and upper limit
 
 for num in range(lower,upper + 1):
 
@@ -9,4 +9,4 @@ for num in range(lower,upper + 1):
            if (num % i) == 0:
                break
        else:
-           print(num) 
+           print(num) #print prime number
