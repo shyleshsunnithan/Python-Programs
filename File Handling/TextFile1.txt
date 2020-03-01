@@ -1,0 +1,8 @@
+Hello
+Hello
+& C:/Users/Shylesh/AppData/Local/Programs/Python/Python37/python.exe "f:/Machine Learning/filehandling.py"
+Hi
+KO
+HelloHello
+Hello
+Hello
