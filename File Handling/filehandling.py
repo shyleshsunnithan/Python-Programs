@@ -63,7 +63,7 @@ if choice == "No":
     if ch == "Yes":
         os.remove("TextFile1.txt")
         print("\n")
-        print("File has Been deleted successfuly!") 
+        print("File has been deleted successfuly!") 
         print("\n")  
 
     elif ch == "No":
