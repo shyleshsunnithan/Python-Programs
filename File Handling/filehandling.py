@@ -58,7 +58,7 @@ while choice == "Yes" :
 
 if choice == "No":
     print("\v")
-    print("Do you want to Delete the file?(Yes/No): ")
+    print("Do you want to delete the file?(Yes/No): ")
     ch = input()
     if ch == "Yes":
         os.remove("TextFile1.txt")
