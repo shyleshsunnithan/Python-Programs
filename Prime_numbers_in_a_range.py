@@ -1,5 +1,5 @@
-lower=int(input("Enter The Lower Limt : ")) # read lower limit
-upper=int(input("Enter The Upper Limit : ")) # read upper limit
+lower=int(input("Enter The Lower Limt : ")) # read the lower limit
+upper=int(input("Enter The Upper Limit : ")) # read the upper limit
 print("Prime numbers between",lower,"and",upper,"are:") #print numbers b/w lower and upper limit
 
 for num in range(lower,upper + 1):
